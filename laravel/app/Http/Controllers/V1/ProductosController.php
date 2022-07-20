@@ -7,6 +7,7 @@ use App\Http\Controllers\Controller;
  
 class ProductosController extends Controller
 {
+    //ESTE ES MI CASO PROPUESTO IDL1
     public function getProductos()
     {
         $response=new \stdClass();
